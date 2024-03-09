@@ -13,7 +13,7 @@
   "dependencies": {
     "express": "~2.5",
     "keypress": "~0.2",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "optimist": "~0.3"
   },
   "bin": {
